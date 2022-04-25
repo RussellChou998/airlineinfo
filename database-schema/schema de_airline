@@ -1,0 +1,55 @@
+CREATE schema de_airline; 
+
+CREATE TABLE de_airline.routes (
+  'routes_id' int PRIMARY KEY AUTO_INCREMENT,
+  'origin_airport_id' int,
+  'destination_aiport_id' int,
+  'airline_id' int
+);
+
+CREATE TABLE de_airline.airline (
+  'airline_id' int PRIMARY KEY,
+  'name' varchar(255),
+  'country_id' int
+);
+
+CREATE TABLE de_airline.airport (
+  'airport_id' int PRIMARY KEY,
+  'name' varchar(255),
+  'active' boolean,
+  'country_id' int
+);
+
+CREATE TABLE de_airline.country (
+  'country_id' int PRIMARY KEY,
+  'name' varchar(255),
+  'ISO_code_2' varchar(255),
+  'ISO_code_3' varchar(255),
+  'region' varchar(255)
+);
+
+CREATE TABLE de_airline.reviews (
+  'review_id serial' PRIMARY KEY,
+  'airline_id' int,
+  'comment' varchar(255),
+  'title' varchar(255),
+  'rating' int,
+  'user_country_id' int,
+  'date' timestamp,
+  'recommend' boolean
+);
+
+ALTER TABLE `routes` ADD FOREIGN KEY (`origin_airport_id`) REFERENCES `airport` (`airport_id`);
+
+ALTER TABLE `routes` ADD FOREIGN KEY (`destination_aiport_id`) REFERENCES `airport` (`airport_id`);
+
+ALTER TABLE `routes` ADD FOREIGN KEY (`airline_id`) REFERENCES `airline` (`airline_id`);
+
+ALTER TABLE `airline` ADD FOREIGN KEY (`country_id`) REFERENCES `country` (`country_id`);
+
+ALTER TABLE `airport` ADD FOREIGN KEY (`country_id`) REFERENCES `country` (`country_id`);
+
+ALTER TABLE `reviews` ADD FOREIGN KEY (`airline_id`) REFERENCES `airline` (`airline_id`);
+
+ALTER TABLE `reviews` ADD FOREIGN KEY (`user_country_id`) REFERENCES `country` (`country_id`);
+
