@@ -1,0 +1,452 @@
+,name,country_id,active
+0,Honiara International Airport,SB,yes
+1,Momote Airport,PG,yes
+2,Port Moresby Jacksons International Airport,PG,yes
+3,Keflavik International Airport,IS,yes
+4,Edmonton International Airport,CA,yes
+5,Halifax / Stanfield International Airport,CA,yes
+6,Ottawa Macdonald-Cartier International Airport,CA,yes
+7,Quebec Jean Lesage International Airport,CA,yes
+8,Montreal / Pierre Elliott Trudeau International Airport,CA,yes
+9,Vancouver International Airport,CA,yes
+10,Winnipeg / James Armstrong Richardson International Airport,CA,yes
+11,Calgary International Airport,CA,yes
+12,St. John's International Airport,CA,yes
+13,Lester B. Pearson International Airport,CA,yes
+14,Houari Boumediene Airport,DZ,yes
+15,Kotoka International Airport,GH,yes
+16,Nnamdi Azikiwe International Airport,NG,yes
+17,Murtala Muhammed International Airport,NG,yes
+18,Diori Hamani International Airport,NE,yes
+19,Tunis Carthage International Airport,TN,yes
+20,Brussels Airport,BE,yes
+21,Berlin Brandenburg Airport,DE,yes
+22,Frankfurt am Main Airport,DE,yes
+23,Hamburg Helmut Schmidt Airport,DE,yes
+24,Cologne Bonn Airport,DE,yes
+25,Düsseldorf Airport,DE,yes
+26,Munich Airport,DE,yes
+27,Nuremberg Airport,DE,yes
+28,Leipzig/Halle Airport,DE,yes
+29,Stuttgart Airport,DE,yes
+30,Hannover Airport,DE,yes
+31,Lennart Meri Tallinn Airport,EE,yes
+32,Helsinki Vantaa Airport,FI,yes
+33,Belfast International Airport,GB,yes
+34,Birmingham International Airport,GB,yes
+35,Manchester Airport,GB,yes
+36,London Luton Airport,GB,yes
+37,London Gatwick Airport,GB,yes
+38,London Heathrow Airport,GB,yes
+39,Glasgow International Airport,GB,yes
+40,Edinburgh Airport,GB,yes
+41,London Stansted Airport,GB,yes
+42,Amsterdam Airport Schiphol,NL,yes
+43,Eindhoven Airport,NL,yes
+44,Dublin Airport,IE,yes
+45,Shannon Airport,IE,yes
+46,Billund Airport,DK,yes
+47,Copenhagen Kastrup Airport,DK,yes
+48,Luxembourg-Findel International Airport,LU,yes
+49,"Bergen Airport, Flesland",NO,yes
+50,"Oslo Airport, Gardermoen",NO,yes
+51,"Tromsø Airport, Langnes",NO,yes
+52,"Trondheim Airport, Værnes",NO,yes
+53,"Stavanger Airport, Sola",NO,yes
+54,Gdańsk Lech Wałęsa Airport,PL,yes
+55,Kraków John Paul II International Airport,PL,yes
+56,Warsaw Chopin Airport,PL,yes
+57,Gothenburg-Landvetter Airport,SE,yes
+58,Stockholm-Arlanda Airport,SE,yes
+59,Riga International Airport,LV,yes
+60,Vilnius International Airport,LT,yes
+61,Cape Town International Airport,ZA,yes
+62,King Shaka International Airport,ZA,yes
+63,OR Tambo International Airport,ZA,yes
+64,Sir Seretse Khama International Airport,BW,yes
+65,King Mswati III International Airport,SZ,yes
+66,Sir Seewoosagur Ramgoolam International Airport,MU,yes
+67,Kenneth Kaunda International Airport,ZM,yes
+68,Roland Garros Airport,RE,yes
+69,Ivato Airport,MG,yes
+70,Quatro de Fevereiro International Airport,AO,yes
+71,Maputo Airport,MZ,yes
+72,Seychelles International Airport,SC,yes
+73,N'Djamena International Airport,TD,yes
+74,Robert Gabriel Mugabe International Airport,ZW,yes
+75,Hosea Kutako International Airport,,yes
+76,Ndjili International Airport,CD,yes
+77,Modibo Keita International Airport,ML,yes
+78,Banjul International Airport,GM,yes
+79,Fuerteventura Airport,ES,yes
+80,Gran Canaria Airport,ES,yes
+81,César Manrique-Lanzarote Airport,ES,yes
+82,Tenerife Sur Airport,ES,yes
+83,Lungi International Airport,SL,yes
+84,Roberts International Airport,LR,yes
+85,Mohammed V International Airport,MA,yes
+86,Blaise Diagne International Airport,SN,yes
+87,Nouakchott–Oumtounsy International Airport,MR,yes
+88,Amílcar Cabral International Airport,CV,yes
+89,Addis Ababa Bole International Airport,ET,yes
+90,Djibouti-Ambouli Airport,DJ,yes
+91,Cairo International Airport,EG,yes
+92,Hurghada International Airport,EG,yes
+93,Sharm El Sheikh International Airport,EG,yes
+94,Juba International Airport,SS,yes
+95,Jomo Kenyatta International Airport,KE,yes
+96,Moi International Airport,KE,yes
+97,Tripoli International Airport,LY,yes
+98,Kigali International Airport,RW,yes
+99,Khartoum International Airport,SD,yes
+100,Julius Nyerere International Airport,TZ,yes
+101,Abeid Amani Karume International Airport,TZ,yes
+102,Entebbe International Airport,UG,yes
+103,Joint Base Andrews,US,no
+104,Hartsfield Jackson Atlanta International Airport,US,yes
+105,Austin Bergstrom International Airport,US,yes
+106,Nashville International Airport,US,yes
+107,Logan International Airport,US,yes
+108,Buffalo Niagara International Airport,US,yes
+109,Baltimore/Washington International Thurgood Marshall Airport,US,yes
+110,Cleveland Hopkins International Airport,US,yes
+111,Charlotte Douglas International Airport,US,yes
+112,Camarillo International Airport,US,no
+113,John Glenn Columbus International Airport,US,yes
+114,Cincinnati Northern Kentucky International Airport,US,yes
+115,Ronald Reagan Washington National Airport,US,yes
+116,Denver International Airport,US,yes
+117,Dallas Fort Worth International Airport,US,yes
+118,Detroit Metropolitan Wayne County Airport,US,yes
+119,Newark Liberty International Airport,US,yes
+120,Fort Lauderdale Hollywood International Airport,US,yes
+121,Washington Dulles International Airport,US,yes
+122,George Bush Intercontinental Houston Airport,US,yes
+123,Indianapolis International Airport,US,yes
+124,Jacksonville International Airport,US,yes
+125,John F Kennedy International Airport,US,yes
+126,McCarran International Airport,US,yes
+127,Los Angeles International Airport,US,yes
+128,La Guardia Airport,US,yes
+129,Kansas City International Airport,US,yes
+130,Orlando International Airport,US,yes
+131,Chicago Midway International Airport,US,yes
+132,Memphis International Airport,US,yes
+133,Miami International Airport,US,yes
+134,General Mitchell International Airport,US,yes
+135,Minneapolis–Saint Paul International Airport / Wold–Chamberlain Field,US,yes
+136,Louis Armstrong New Orleans International Airport,US,yes
+137,Metropolitan Oakland International Airport,US,yes
+138,Ontario International Airport,US,yes
+139,Chicago O'Hare International Airport,US,yes
+140,Palm Beach International Airport,US,yes
+141,Portland International Airport,US,yes
+142,Philadelphia International Airport,US,yes
+143,Phoenix Sky Harbor International Airport,US,yes
+144,Pittsburgh International Airport,US,yes
+145,Theodore Francis Green State Airport,US,yes
+146,Portland International Jetport,US,yes
+147,Raleigh Durham International Airport,US,yes
+148,Richmond International Airport,US,yes
+149,Reno Tahoe International Airport,US,yes
+150,Southwest Florida International Airport,US,yes
+151,San Diego International Airport,US,yes
+152,San Antonio International Airport,US,yes
+153,Savannah Hilton Head International Airport,US,yes
+154,Louisville Muhammad Ali International Airport,US,yes
+155,Seattle Tacoma International Airport,US,yes
+156,Orlando Sanford International Airport,US,yes
+157,San Francisco International Airport,US,yes
+158,Norman Y. Mineta San Jose International Airport,US,yes
+159,Salt Lake City International Airport,US,yes
+160,Sacramento International Airport,US,yes
+161,St Louis Lambert International Airport,US,yes
+162,Syracuse Hancock International Airport,US,yes
+163,Tampa International Airport,US,yes
+164,Tulsa International Airport,US,yes
+165,Tirana International Airport Mother Teresa,AL,yes
+166,Burgas Airport,BG,yes
+167,Sofia Airport,BG,yes
+168,Varna Airport,BG,yes
+169,Larnaca International Airport,CY,yes
+170,Zagreb Airport,HR,yes
+171,Alicante-Elche Miguel Hernández Airport,ES,yes
+172,Josep Tarradellas Barcelona-El Prat Airport,ES,yes
+173,Ibiza Airport,ES,yes
+174,Adolfo Suárez Madrid–Barajas Airport,ES,yes
+175,Málaga-Costa del Sol Airport,ES,yes
+176,Palma de Mallorca Airport,ES,yes
+177,Santiago-Rosalía de Castro Airport,ES,yes
+178,Bordeaux-Mérignac Airport,FR,yes
+179,Toulouse-Blagnac Airport,FR,yes
+180,Lyon Saint-Exupéry Airport,FR,yes
+181,Marseille Provence Airport,FR,yes
+182,Nice-Côte d'Azur Airport,FR,yes
+183,Charles de Gaulle International Airport,FR,yes
+184,Paris-Orly Airport,FR,yes
+185,EuroAirport Basel-Mulhouse-Freiburg Airport,FR,yes
+186,Athens Eleftherios Venizelos International Airport,GR,yes
+187,Heraklion International Nikos Kazantzakis Airport,GR,yes
+188,Thessaloniki Macedonia International Airport,GR,yes
+189,Budapest Liszt Ferenc International Airport,HU,yes
+190,Lake Havasu City International Airport,US,yes
+191,Bari Karol Wojtyła Airport,IT,yes
+192,Brindisi Airport,IT,yes
+193,Catania-Fontanarossa Airport,IT,yes
+194,Falcone–Borsellino Airport,IT,yes
+195,Cagliari Elmas Airport,IT,yes
+196,Malpensa International Airport,IT,yes
+197,Milan Bergamo Airport,IT,yes
+198,Turin Airport,IT,yes
+199,Bologna Guglielmo Marconi Airport,IT,yes
+200,Verona-Villafranca Valerio Catullo Airport,IT,yes
+201,Venice Marco Polo Airport,IT,yes
+202,Rome–Fiumicino Leonardo da Vinci International Airport,IT,yes
+203,Naples International Airport,IT,yes
+204,Pisa International Airport,IT,yes
+205,Ljubljana Jože Pučnik Airport,SI,yes
+206,Václav Havel Airport Prague,CZ,yes
+207,Ben Gurion International Airport,IL,yes
+208,Ramon International Airport,IL,yes
+209,Malta International Airport,MT,yes
+210,Vienna International Airport,AT,yes
+211,Faro Airport,PT,yes
+212,João Paulo II Airport,PT,yes
+213,Francisco de Sá Carneiro Airport,PT,yes
+214,Humberto Delgado Airport (Lisbon Portela Airport),PT,yes
+215,Henri Coandă International Airport,RO,yes
+216,Geneva Cointrin International Airport,CH,yes
+217,Zürich Airport,CH,yes
+218,Esenboğa International Airport,TR,yes
+219,Antalya International Airport,TR,yes
+220,İstanbul Atatürk Airport,TR,yes
+221,Adnan Menderes International Airport,TR,yes
+222,Dalaman International Airport,TR,yes
+223,Milas Bodrum International Airport,TR,yes
+224,Istanbul Sabiha Gökçen International Airport,TR,yes
+225,İstanbul Airport,TR,yes
+226,Skopje International Airport,MK,yes
+227,Belgrade Nikola Tesla Airport,RS,yes
+228,Podgorica Airport / Podgorica Golubovci Airbase,ME,yes
+229,M. R. Štefánik Airport,SK,yes
+230,Providenciales International Airport,TC,yes
+231,Punta Cana International Airport,DO,yes
+232,Las Américas International Airport,DO,yes
+233,La Aurora Airport,GT,yes
+234,Norman Manley International Airport,JM,yes
+235,General Juan N Alvarez International Airport,MX,yes
+236,Don Miguel Hidalgo Y Costilla International Airport,MX,yes
+237,General Ignacio P. Garcia International Airport,MX,yes
+238,Licenciado Benito Juarez International Airport,MX,yes
+239,General Rafael Buelna International Airport,MX,yes
+240,President Gustavo Díaz Ordaz International Airport,MX,yes
+241,Los Cabos International Airport,MX,yes
+242,Santa Lucía Air Force Base / General Felipe Ángeles International Airport,MX,no
+243,General Abelardo L. Rodríguez International Airport,MX,yes
+244,Cancún International Airport,MX,yes
+245,Tocumen International Airport,PA,yes
+246,Guanacaste Airport,CR,yes
+247,Monseñor Óscar Arnulfo Romero International Airport,SV,yes
+248,Toussaint Louverture International Airport,HT,yes
+249,José Martí International Airport,CU,yes
+250,Juan Gualberto Gomez International Airport,CU,yes
+251,Owen Roberts International Airport,KY,yes
+252,Lynden Pindling International Airport,BS,yes
+253,Philip S. W. Goldson International Airport,BZ,yes
+254,Rarotonga International Airport,CK,yes
+255,Faa'a International Airport,PF,yes
+256,Bauerfield International Airport,VU,yes
+257,Nouméa Magenta Airport,NC,yes
+258,Auckland International Airport,NZ,yes
+259,Christchurch International Airport,NZ,yes
+260,Wellington International Airport,NZ,yes
+261,Bahrain International Airport,BH,yes
+262,King Fahd International Airport,SA,yes
+263,King Abdulaziz Air Base,SA,no
+264,King Abdulaziz International Airport,SA,yes
+265,Prince Mohammad Bin Abdulaziz Airport,SA,yes
+266,King Khaled International Airport,SA,yes
+267,Imam Khomeini International Airport,IR,yes
+268,Mehrabad International Airport,IR,yes
+269,Mashhad International Airport,IR,yes
+270,Shiraz Shahid Dastghaib International Airport,IR,yes
+271,Queen Alia International Airport,JO,yes
+272,Kuwait International Airport,KW,yes
+273,Beirut Rafic Hariri International Airport,LB,yes
+274,Duqm International Airport,OM,yes
+275,Abu Dhabi International Airport,AE,yes
+276,Dubai International Airport,AE,yes
+277,Al Maktoum International Airport,AE,yes
+278,Sharjah International Airport,AE,yes
+279,Muscat International Airport,OM,yes
+280,Islamabad International Airport,PK,yes
+281,Jinnah International Airport,PK,yes
+282,Allama Iqbal International Airport,PK,yes
+283,Baghdad International Airport / New Al Muthana Air Base,IQ,yes
+284,Damascus International Airport,SY,yes
+285,Hamad International Airport,QA,yes
+286,Fairbanks International Airport,US,yes
+287,Ted Stevens Anchorage International Airport,US,yes
+288,Antonio B. Won Pat International Airport,GU,yes
+289,Daniel K Inouye International Airport,US,yes
+290,Kaohsiung International Airport,TW,yes
+291,Taiwan Taoyuan International Airport,TW,yes
+292,Narita International Airport,JP,yes
+293,Kansai International Airport,JP,yes
+294,New Chitose Airport,JP,yes
+295,Fukuoka Airport,JP,yes
+296,Kagoshima Airport,JP,yes
+297,Chubu Centrair International Airport,JP,yes
+298,Osaka International Airport,JP,yes
+299,Sendai Airport,JP,yes
+300,Tokyo Haneda International Airport,JP,yes
+301,Yokota Air Base,JP,no
+302,Muan International Airport,KR,yes
+303,Jeju International Airport,KR,yes
+304,Gimhae International Airport,KR,yes
+305,Incheon International Airport,KR,yes
+306,Gimpo International Airport,KR,yes
+307,Naha Airport / JASDF Naha Air Base,JP,yes
+308,Kadena Air Base,JP,no
+309,Ninoy Aquino International Airport,PH,yes
+310,Francisco Bangoy International Airport,PH,yes
+311,Mactan Cebu International Airport,PH,yes
+312,Lipetsk Air Base,RU,no
+313,Olenya Air Base,RU,no
+314,Jorge Newbery Airpark,AR,yes
+315,Ministro Pistarini International Airport,AR,yes
+316,Val de Cans/Júlio Cezar Ribeiro International Airport,BR,yes
+317,Presidente Juscelino Kubitschek International Airport,BR,yes
+318,Tancredo Neves International Airport,BR,yes
+319,Eduardo Gomes International Airport,BR,yes
+320,Hercílio Luz International Airport,BR,yes
+321,Rio Galeão – Tom Jobim International Airport,BR,yes
+322,Guarulhos - Governador André Franco Montoro International Airport,BR,yes
+323,Deputado Luiz Eduardo Magalhães International Airport,BR,yes
+324,Comodoro Arturo Merino Benítez International Airport,CL,yes
+325,José Joaquín de Olmedo International Airport,EC,yes
+326,Mariscal Sucre International Airport,EC,yes
+327,El Dorado International Airport,CO,yes
+328,Viru Viru International Airport,BO,yes
+329,Johan Adolf Pengel International Airport,SR,yes
+330,Cayenne – Félix Eboué Airport,GF,yes
+331,Jorge Chávez International Airport,PE,yes
+332,Alejandro Velasco Astete International Airport,PE,yes
+333,Carrasco International /General C L Berisso Airport,UY,yes
+334,General José Antonio Anzoategui International Airport,VE,yes
+335,Simón Bolívar International Airport,VE,yes
+336,Qingdao Jiaodong International Airport,CN,yes
+337,Martinique Aimé Césaire International Airport,MQ,yes
+338,Pointe-à-Pitre Le Raizet International  Airport,GP,yes
+339,Luis Munoz Marin International Airport,PR,yes
+340,Hewanorra International Airport,LC,yes
+341,Queen Beatrix International Airport,AW,yes
+342,Flamingo International Airport,BQ,yes
+343,Hato International Airport,CW,yes
+344,Princess Juliana International Airport,SX,yes
+345,Almaty International Airport,KZ,yes
+346,Nursultan Nazarbayev International Airport,KZ,yes
+347,Manas International Airport,KG,yes
+348,Hazrat Sultan International Airport,KZ,yes
+349,Heydar Aliyev International Airport,AZ,yes
+350,Zvartnots International Airport,AM,yes
+351,Tbilisi International Airport,GE,yes
+352,Vladivostok International Airport,RU,yes
+353,Boryspil International Airport,UA,yes
+354,Lviv International Airport,UA,yes
+355,Pulkovo Airport,RU,yes
+356,Minsk National Airport,BY,yes
+357,Krasnoyarsk International Airport,RU,yes
+358,Novosibirsk Tolmachevo Airport,RU,yes
+359,Platov International Airport,RU,yes
+360,Sochi International Airport,RU,yes
+361,CLICK HERE TO APPLY FOR URGENT LOAN,US,no
+362,CLICK HERE TO APPLY FOR URGENT LOAN,US,no
+363,CLICK HERE TO APPLY FOR URGENT LOAN,US,no
+364,CLICK HERE TO APPLY FOR URGENT LOAN,US,no
+365,Koltsovo Airport,RU,yes
+366,Ashgabat International Airport,TM,yes
+367,Tashkent International Airport,UZ,yes
+368,Zhukovsky International Airport,RU,yes
+369,Domodedovo International Airport,RU,yes
+370,Sheremetyevo International Airport,RU,yes
+371,Vnukovo International Airport,RU,yes
+372,Kazan International Airport,RU,yes
+373,Gagarin International Airport,RU,yes
+374,Ufa International Airport,RU,yes
+375,Kurumoch International Airport,RU,yes
+376,Chhatrapati Shivaji International Airport,IN,yes
+377,Dabolim Airport,IN,yes
+378,Bandaranaike International Colombo Airport,LK,yes
+379,Mattala Rajapaksa International Airport,LK,yes
+380,Phnom Penh International Airport,KH,yes
+381,Siem Reap International Airport,KH,yes
+382,Netaji Subhash Chandra Bose International Airport,IN,yes
+383,Hazrat Shahjalal International Airport,BD,yes
+384,Hong Kong International Airport,HK,yes
+385,Indira Gandhi International Airport,IN,yes
+386,Macau International Airport,MO,yes
+387,Tribhuvan International Airport,NP,yes
+388,Kempegowda International Airport,IN,yes
+389,Cochin International Airport,IN,yes
+390,Rajiv Gandhi International Airport,IN,yes
+391,Chennai International Airport,IN,yes
+392,Trivandrum International Airport,IN,yes
+393,Malé International Airport,MV,yes
+394,Don Mueang International Airport,TH,yes
+395,Suvarnabhumi Airport,TH,yes
+396,Chiang Mai International Airport,TH,yes
+397,Phuket International Airport,TH,yes
+398,Noi Bai International Airport,VN,yes
+399,Tan Son Nhat International Airport,VN,yes
+400,Mandalay International Airport,MM,yes
+401,Yangon International Airport,MM,yes
+402,Hasanuddin International Airport,ID,yes
+403,Ngurah Rai (Bali) International Airport,ID,yes
+404,Sentani International Airport,ID,yes
+405,Juanda International Airport,ID,yes
+406,Brunei International Airport,BN,yes
+407,Soekarno-Hatta International Airport,ID,yes
+408,Kuala Lumpur International Airport,MY,yes
+409,Singapore Changi Airport,SG,yes
+410,Brisbane International Airport,AU,yes
+411,Melbourne International Airport,AU,yes
+412,Yantai Penglai International Airport,CN,yes
+413,Adelaide International Airport,AU,yes
+414,Perth International Airport,AU,yes
+415,Sydney Kingsford Smith International Airport,AU,yes
+416,Beijing Capital International Airport,CN,yes
+417,Beijing Daxing International Airport,CN,yes
+418,Baita International Airport,CN,yes
+419,Tianjin Binhai International Airport,CN,yes
+420,Taiyuan Wusu Airport,CN,yes
+421,Guangzhou Baiyun International Airport,CN,yes
+422,Changsha Huanghua International Airport,CN,yes
+423,Guilin Liangjiang International Airport,CN,yes
+424,Nanning Wuxu Airport,CN,yes
+425,Shenzhen Bao'an International Airport,CN,yes
+426,Zhengzhou Xinzheng International Airport,CN,yes
+427,Wuhan Tianhe International Airport,CN,yes
+428,Haikou Meilan International Airport,CN,yes
+429,Sanya Phoenix International Airport,CN,yes
+430,Lanzhou Zhongchuan International Airport,CN,yes
+431,Xi'an Xianyang International Airport,CN,yes
+432,Ulaanbaatar Chinggis Khaan International Airport,MN,yes
+433,Kunming Changshui International Airport,CN,yes
+434,Xiamen Gaoqi International Airport,CN,yes
+435,Fuzhou Changle International Airport,CN,no
+436,Hangzhou Xiaoshan International Airport,CN,yes
+437,Jinan Yaoqiang International Airport,CN,yes
+438,Ningbo Lishe International Airport,CN,yes
+439,Nanjing Lukou International Airport,CN,yes
+440,Shanghai Pudong International Airport,CN,yes
+441,Shanghai Hongqiao International Airport,CN,yes
+442,Wenzhou Longwan International Airport,CN,yes
+443,Chongqing Jiangbei International Airport,CN,yes
+444,Longdongbao Airport,CN,yes
+445,Chengdu Tianfu International Airport,CN,yes
+446,Chengdu Shuangliu International Airport,CN,yes
+447,Ürümqi Diwopu International Airport,CN,yes
+448,Harbin Taiping International Airport,CN,yes
+449,Dalian Zhoushuizi International Airport,CN,yes
+450,Shenyang Taoxian International Airport,CN,yes
